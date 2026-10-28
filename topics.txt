@@ -1,0 +1,8 @@
+grimdark
+skull
+gothic-sci-fi
+desktop-pet
+animated-companion
+sprite-sheet
+sprite-animation
+character-art

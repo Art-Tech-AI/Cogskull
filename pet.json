@@ -1,0 +1,27 @@
+{
+  "name": "Cogskull",
+  "description": "An animated grimdark skull drone for your desktop: aged bone, brass machinery, an emerald optic, and a sacred obligation to supervise your unfinished work. Nine animation states. Sixteen gaze directions. Retirement denied.",
+  "spritesheet": "spritesheet.png",
+  "sprite_version": 2,
+  "width": 1536,
+  "height": 2288,
+  "cell_width": 192,
+  "cell_height": 208,
+  "columns": 8,
+  "rows": 11,
+  "frames_per_row": [
+    6,
+    8,
+    8,
+    4,
+    5,
+    8,
+    6,
+    6,
+    6,
+    8,
+    8
+  ],
+  "sha256": "96fa6bd5160123661062e41dce269f8f8e3369cd15f018ed99f6816546a295f3",
+  "display_title": "Cogskull — Grimdark Skull Drone"
+}
