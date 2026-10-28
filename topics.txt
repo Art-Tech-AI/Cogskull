@@ -1,8 +1,6 @@
-grimdark
-skull
-gothic-sci-fi
+chatgpt
+chatgpt-pets
+custom-pet
 desktop-pet
-animated-companion
+grimdark
 sprite-sheet
-sprite-animation
-character-art

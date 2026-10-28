@@ -1,4 +1,8 @@
-# Cogskull — Grimdark Skull Drone
+# Cogskull — Grimdark Skull Drone for ChatGPT Pets
+
+**A custom animated pet for ChatGPT Work (ChatGPT Pets).**
+
+Cogskull is a grimdark mechanical skull companion for ChatGPT, with nine animation states and sixteen gaze directions. This repository contains the transparent v2 sprite sheet, animation previews, and metadata for the custom pet.
 
 **Ancient bone. Cold steel. Endless duty.**
 
@@ -22,9 +26,9 @@ An aged ivory skull rides above three articulated legs, crowned with a spiked br
 
 Nobody is authorised to check.
 
-## A minor relic with major administrative responsibilities
+## A custom ChatGPT pet with major administrative responsibilities
 
-Cogskull is a grimdark mechanical companion for your desktop: a tiny attendant for long builds, late-night debugging, and projects whose documentation has passed from technical reference into sacred tradition.
+Cogskull is a custom ChatGPT pet and grimdark mechanical companion for your workspace: a tiny attendant for long builds, late-night debugging, and projects whose documentation has passed from technical reference into sacred tradition.
 
 He brings no weapons. His assigned theatre of operations is the workspace. His enemies are unfinished tasks, unattended processes, and whoever last modified the configuration without recording the proper rites.
 

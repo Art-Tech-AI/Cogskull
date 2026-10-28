@@ -1,6 +1,6 @@
 {
   "name": "Cogskull",
-  "description": "An animated grimdark skull drone for your desktop: aged bone, brass machinery, an emerald optic, and a sacred obligation to supervise your unfinished work. Nine animation states. Sixteen gaze directions. Retirement denied.",
+  "description": "Custom animated pet for ChatGPT Pets in ChatGPT Work. Cogskull is a grimdark mechanical skull companion with nine animation states, sixteen gaze directions, and a transparent v2 sprite sheet. Ancient bone. Cold steel. Endless duty.",
   "spritesheet": "spritesheet.png",
   "sprite_version": 2,
   "width": 1536,
@@ -23,5 +23,6 @@
     8
   ],
   "sha256": "96fa6bd5160123661062e41dce269f8f8e3369cd15f018ed99f6816546a295f3",
-  "display_title": "Cogskull — Grimdark Skull Drone"
+  "display_title": "Cogskull — Grimdark Skull Drone for ChatGPT Pets",
+  "intended_platform": "ChatGPT Work (ChatGPT Pets)"
 }
